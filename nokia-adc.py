@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#新規作成時はlFで保存すること
+#新規作成時はlFで保存すること 
 #MCP3008のCH0,1,2,3の値をNOKIA5110に表示する
 from gpiozero import MCP3008,LED
 from time import sleep
